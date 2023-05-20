@@ -78,6 +78,7 @@ body{
 
 .loading{
 	margin: 0 auto 18px auto;
+	margin-top: 18px;
 	width: 364px;
 	height: 48px;
 	border-radius: 10px;
